@@ -11,7 +11,12 @@ namespace LambdaForums.Data
         {
         }
 
-        public DbSet<ApplicationDbContext> ApplicationUsers { get; set; }
+        //protected override void OnModelCreating(ModelBuilder builder)
+        //{
+        //    base.OnModelCreating(builder);
+        //}
+
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         public DbSet<Forum> Forums{ get; set; }
         public DbSet<Post> Posts{ get; set; }
         public DbSet<PostReply> PostReplies{ get; set; }

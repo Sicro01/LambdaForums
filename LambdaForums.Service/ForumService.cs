@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LambdaForums.Data
+namespace LambdaForums.Service
 {
     public class Class1
     {

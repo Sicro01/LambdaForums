@@ -61,3 +61,16 @@ C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\La
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\obj\Debug\netcoreapp3.0\LambdaForums.csproj.CopyComplete
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\obj\Debug\netcoreapp3.0\LambdaForums.dll
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\obj\Debug\netcoreapp3.0\LambdaForums.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\LambdaForums.Data.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\LambdaForums.Data.pdb
