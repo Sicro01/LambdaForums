@@ -3,3 +3,8 @@ C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\La
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\obj\Debug\netcoreapp3.0\LambdaForums.Data.csprojAssemblyReference.cache
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\obj\Debug\netcoreapp3.0\LambdaForums.Data.AssemblyInfoInputs.cache
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\obj\Debug\netcoreapp3.0\LambdaForums.Data.AssemblyInfo.cs
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\bin\Debug\netcoreapp3.0\LambdaForums.Data.runtimeconfig.json
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\bin\Debug\netcoreapp3.0\LambdaForums.Data.runtimeconfig.dev.json
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\bin\Debug\netcoreapp3.0\LambdaForums.Data.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\obj\Debug\netcoreapp3.0\LambdaForums.Data.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Data\obj\Debug\netcoreapp3.0\LambdaForums.Data.pdb
