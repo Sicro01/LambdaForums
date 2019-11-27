@@ -423,3 +423,4 @@ C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\La
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\obj\Debug\netcoreapp3.0\LambdaForums.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\obj\Debug\netcoreapp3.0\LambdaForums.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums\obj\Debug\netcoreapp3.0\Razor\Views\Forum\Topic.cshtml.g.cs
