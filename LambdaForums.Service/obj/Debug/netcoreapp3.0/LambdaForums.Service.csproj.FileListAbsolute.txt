@@ -1,0 +1,11 @@
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\bin\Debug\netcoreapp3.0\LambdaForums.Service.deps.json
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\bin\Debug\netcoreapp3.0\LambdaForums.Service.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\bin\Debug\netcoreapp3.0\LambdaForums.Service.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\bin\Debug\netcoreapp3.0\LambdaForums.Data.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\bin\Debug\netcoreapp3.0\LambdaForums.Data.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\obj\Debug\netcoreapp3.0\LambdaForums.Service.csprojAssemblyReference.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\obj\Debug\netcoreapp3.0\LambdaForums.Service.AssemblyInfoInputs.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\obj\Debug\netcoreapp3.0\LambdaForums.Service.AssemblyInfo.cs
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\obj\Debug\netcoreapp3.0\LambdaForums.Service.csproj.CopyComplete
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\obj\Debug\netcoreapp3.0\LambdaForums.Service.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\LambdaForumsApp\LambdaForums.Service\obj\Debug\netcoreapp3.0\LambdaForums.Service.pdb
